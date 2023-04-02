@@ -1,4 +1,4 @@
-package org.sber;
+package org.sber.utils.cityUtils;
 
 import org.sber.models.City;
 
