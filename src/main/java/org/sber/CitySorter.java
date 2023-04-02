@@ -1,4 +1,6 @@
-package org.sber.models;
+package org.sber;
+
+import org.sber.models.City;
 
 import java.util.Comparator;
 import java.util.List;
